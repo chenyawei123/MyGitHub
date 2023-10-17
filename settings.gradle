@@ -1,0 +1,3 @@
+include ':toolutils'
+include ':app'
+rootProject.name = "MyGitHub"
